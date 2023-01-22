@@ -1,0 +1,11 @@
+*.pkl
+*.json
+*.txt
+venv/
+poetry.lock
+pyproject.toml
+replit.nix
+.upm/
+.replit
+.config/
+.cache/
